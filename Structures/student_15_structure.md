@@ -18,7 +18,7 @@ Build some green stairs that go up 4 steps.
 
 ## What This Could Be
 [Your best guess - playground equipment?]
-Flight of stairs
+Stairs
 
 ## Questions I Have
 [What don't you know yet?]
