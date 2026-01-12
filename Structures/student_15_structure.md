@@ -1,14 +1,7 @@
 # My Structure - Student XX
 
 ## What I See in My Data
-=== student_15.txt ===
-1
-2-2
-3-3-3
-4-4-4-4
-TYPE: ASCENDING
-STEPS: 4
-COLOR: GREEN
+The numbers 1 to 4 in seperate rows (1 at the top 4 at the bottom) with the amount of that number in each row eg two 2s with the colour green.
 
 
 ## What I Think This Means
